@@ -1,7 +1,12 @@
 Contact Me:
+
 Twitter: @JarlPenguin
+
 Discord: JarlPenguin#9069
+
 Skype: live:jarlpenguin
+
+
 
 My repos:
 
