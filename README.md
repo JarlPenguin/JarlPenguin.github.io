@@ -1,2 +1,2 @@
-# jarlpenguin.github.io
-JarlPenguin web content
+# JarlPenguin Web
+JarlPenguin's web content/resources
