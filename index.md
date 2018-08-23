@@ -1,4 +1,9 @@
-## Welcome to JarlPenguin's homepage!
+# JarlPenguin's Homepage
+## Welcome to my homepage!
+
+Hiya guys, my name is JarlPenguin, and I like to work on all sorts of projects. Below are some of the ones I have worked on.
+
+Note that these pages will expand more and more as I add more/update existing content.
 
 - Go to [**my blog**](https://jarlpenguin.blogspot.com) for my blog on tutorials, software updates, pictures, and the like.
 
