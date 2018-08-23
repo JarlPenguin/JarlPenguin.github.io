@@ -13,7 +13,7 @@ Note that these pages will expand more and more as I add more/update existing co
 
 - Go to [**Tor Browser Portable**](https://JarlPenguin.github.io/TorBrowserPortable) for the portable version of Tor Browser.
 
-- Go to [**Tor Browser Portable (Beta)**](https://JarlPenguin.github.io/TorBrowserBetaPortable) for the portable version of Tor Browser (Beta).
+- Go to [**Tor Browser (Beta) Portable**](https://JarlPenguin.github.io/TorBrowserBetaPortable) for the portable version of Tor Browser (Beta).
 
 - Go to [**InSpectre Portable**](https://JarlPenguin.github.io/InSpectrePortable) for the portable version of InSpectre.
 
