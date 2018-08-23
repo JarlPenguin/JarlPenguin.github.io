@@ -7,6 +7,8 @@ Note that these pages will expand more and more as I add more/update existing co
 
 - Go to [**my blog**](https://jarlpenguin.blogspot.com) for my blog on tutorials, software updates, pictures, and the like.
 
+- Join my [**Discord server**](https://discord.gg/VVuZHqT) to get assistance on any of the below apps, if not on their GitHub pages.
+
 - Go to [**UserBenchMark Portable**](https://JarlPenguin.github.io/UserBenchMarkPortable) for the portable version of UserBenchMark.
 
 - Go to [**PortableMineLauncher**](https://JarlPenguin.github.io/PortableMineLauncher) for the portable version of the new & native Minecraft launcher.
