@@ -1,7 +1,7 @@
 # JarlPenguin's Homepage
 ## Welcome to my homepage!
 
-Hiya guys, my name is JarlPenguin, and I like to work on all sorts of projects. Below are some of the ones I have worked on.
+Hello everyone, my name is JarlPenguin, and I like to work on all sorts of projects. Below are some of the ones I have worked on.
 
 Note that these pages will expand more and more as I add more/update existing content.
 
