@@ -1,9 +1,5 @@
 ## Welcome to JarlPenguin's homepage!
 
-[**Home**](https://JarlPenguin.github.io)
-[**About Me**](https://JarlPenguin.github.io/about_me.md)
-[**Contact Me**](https://JarlPenguin.github.io/contact_me.md)
-
 - Go to [**my blog**](https://jarlpenguin.blogspot.com) for my blog on tutorials, software updates, pictures, and the like.
 
 - Go to [**UserBenchMark Portable**](https://JarlPenguin.github.io/UserBenchMarkPortable) for the portable version of UserBenchMark.
