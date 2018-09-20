@@ -6,7 +6,7 @@ Discord: [Discord Server](https://discord.gg/VVuZHqT) or JarlPenguin#9069
 
 Skype: live:jarlpenguin
 
-Twitter: [@JarlPenguin](https://twitter.com/JarlPenguin)
+Twitter: [@Jarl_Penguin](https://twitter.com/Jarl_Penguin)
 
 Steam: [JarlPenguin](https://steamcommunity.com/id/jarlpenguin)
 
