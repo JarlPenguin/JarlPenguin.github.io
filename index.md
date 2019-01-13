@@ -17,6 +17,8 @@ Note that these pages will expand more and more as I add more/update existing co
 
 - Go to [**Tor Browser (Beta) Portable**](https://JarlPenguin.github.io/TorBrowserBetaPortable) for the portable version of Tor Browser (Beta).
 
+- Go to [**Discord Portable**](https://JarlPenguin.github.io/DiscordPortable) for the portable version of Discord.
+
 - Go to [**InSpectre Portable**](https://JarlPenguin.github.io/InSpectrePortable) for the portable version of InSpectre.
 
 - Go to [**BeCyIconGrabber Portable**](https://JarlPenguin.github.io/BeCyIconGrabberPortable) for the portable version of BeCyIconGrabber.
