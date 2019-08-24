@@ -4,7 +4,7 @@ Via:
 
 Discord: [Discord Server](https://discord.gg/VVuZHqT) or Jarl-Penguin#9069
 
-Skype: live:jarlpenguin
+Skype: jarlpenguin@outlook.com
 
 Twitter: [@Jarl_Penguin](https://twitter.com/Jarl_Penguin)
 
