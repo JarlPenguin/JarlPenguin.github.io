@@ -1,6 +1,6 @@
 # Jarl-Penguin's Homepage
 
-Below are some of the ones I have worked on.
+Below are some of the projects I have worked on.
 
 - Join my [**Discord server**](https://discord.gg/VVuZHqT) to get assistance on any of the below apps, if not on their GitHub pages.
 
