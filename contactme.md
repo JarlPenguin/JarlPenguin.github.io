@@ -2,16 +2,14 @@
 
 Via:
 
-Discord: [Discord Server](https://discord.gg/VVuZHqT) or Jarl-Penguin#9069
+Discord: [Discord Server](https://discord.gg/VVuZHqT)
 
-Skype: jarlpenguin@outlook.com
+Skype: live:jarlpenguin
 
-Twitter: [@Jarl_Penguin](https://twitter.com/Jarl_Penguin)
+Twitter: [@JarlPenguin](https://twitter.com/JarlPenguin)
 
 Steam: [Jarl-Penguin](https://steamcommunity.com/id/jarlpenguin)
 
 Twitch: [Jarl_Penguin](https://www.twitch.tv/jarl_penguin)
 
 Xbox: JarlPenguin
-
-Email: jarlpenguin@outlook.com
