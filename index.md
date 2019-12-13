@@ -6,7 +6,7 @@ Below are some of the projects I have worked on.
 
 - Go to [**UserBenchMark Portable**](https://JarlPenguin.github.io/UserBenchMarkPortable) for the portable version of UserBenchMark.
 
-- Go to [**MinePortableLauncher**](https://JarlPenguin.github.io/MinePortableLauncher) for the portable version of the new & native Minecraft launcher.
+- Go to [**MineLauncherPortable**](https://JarlPenguin.github.io/MineLauncherPortable) for the portable version of the new & native Minecraft launcher.
 
 - Go to [**Tor Browser Portable**](https://JarlPenguin.github.io/TorBrowserPortable) for the portable version of Tor Browser.
 
